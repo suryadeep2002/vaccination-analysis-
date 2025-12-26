@@ -3,7 +3,7 @@ Data Science and analytics project showcasing vaccination analysis using python
 📊 Data Science & Analytics Project
 📌 Overview
 
-This project demonstrates an end-to-end data analytics workflow, starting from loading raw data in Python to delivering insights through an interactive Power BI dashboard.
+This project demonstrates an end-to-end data analytics workflow, starting from loading raw data in Python to delivering insights through an interactive dashboard.
 The goal is to explore the dataset, clean and prepare the data, uncover meaningful patterns, and present results in a clear and visually appealing format suitable for business decision-making.
 
 📂 Dataset
@@ -27,7 +27,7 @@ NumPy
 
 Matplotlib / Seaborn
 
-Power BI – Dashboard creation and data visualization
+Creation and data visualization
 
 Jupyter Notebook – Analysis and EDA
 
@@ -58,27 +58,6 @@ Prepared a clean dataset suitable for visualization.
 
 Exported the cleaned dataset for use in Power BI.
 
-5. Power BI Dashboard
-
-Built an interactive dashboard with:
-
-Key performance indicators (KPIs)
-
-Charts and filters
-
-Insights for easy interpretation
-
-📈 Dashboard
-
-The Power BI dashboard provides:
-
-Clear summary of key metrics
-
-Interactive filters for deeper analysis
-
-Visual insights to support data-driven decisions
-
-(Optional: Add a screenshot or link to the Power BI file)
 
 ✅ Results & Insights
 
